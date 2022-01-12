@@ -308,7 +308,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/stdeltion.sharepoint.com\/sites\/mdwdiensten\/DA\/SitePages\/Leren-%26-ICT---minor(1).aspx?xsdata=MDN8MDF8fGE3NTEyYzRkNjI1YjRiYTZhMzRhODJlNzY0YThlMjYyfDI4NjdhODUwMmZlNTQzZjc5MmI5OGUzMjY1ODZiNjY3fDF8MHw2Mzc3NzQyNTc1NDExMDMzODN8R29vZHxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeWZRPT0%3D&sdata=Ni9QTXF2SnFhZG5CcVJXYVJRdFA3c25pZndHd0l2bnhUeWtEN1F3bmx5az0%3D&ovuser=2867a850-2fe5-43f7-92b9-8e326586b667%2Ckhartsuiker%40deltion.nl&OR=Teams-HL&CT=1641828958529"
                         }, 
@@ -331,7 +331,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/communities.surf.nl\/artikel\/blended-onderwijs-ontwerpen-het-golfjesspel-maakt-de-tongen-los"
                         }, 
